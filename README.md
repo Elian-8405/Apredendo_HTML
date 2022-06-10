@@ -1,2 +1,2 @@
 # Apredendo_HTML
-Repositorio Dedicado a Guardar Anotaões Projetos Sobre meu Aprendizado
+Repositório Dedicado a Guardar Anotaões e Projetos Sobre meu Aprendizado
