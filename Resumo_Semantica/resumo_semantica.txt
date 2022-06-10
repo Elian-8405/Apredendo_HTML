@@ -1,0 +1,21 @@
+                                   Resumo Semantica 
+A semnatica do html serve a grosso modo para descrever melhor nosso conteudo, agora serão listados alguns elementos semanticos:
+
+Primeiro: <section></section>
+Sim, o nome é surgetivo e é isso mesmo, a estrutura citada é uma seção generica de conteudo quando não há um elemento especifico para isso.
+
+Segunda: <header></header>
+Sabe aquele cabeçalho onde geralmente ficam as barras de busca e logo marcas? Provalmente era essa estrutura.
+
+terceira: <article></article> 
+Representa um conteudo independente e relevante no site, como por exemplo post e noticias.
+
+Quarta: <aside></aside>
+Representa conteudo relacionados ao conteudo principal, como exemplo um artigo.
+
+Quinta: <footer></footer>
+Sabe o rodape, onde fica todas aquelas informações de contato e tudo mais? É isso aqui.
+
+Sexta: <h1>-<h6>
+Esses carinhas aqui são utilizados para titulos sendo o <h1> o mais importante.
+Obs: É sempre bom colocar somente um <h1> por pagina.

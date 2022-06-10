@@ -1,0 +1,34 @@
+                                           RESUMO
+Bom, O HTML semppre é começado com a mesma estrututa que é chamda de estrutura padrão que é:
+
+
+<!DOCTYPE html> // indica para o navegador que o codigo vai ser escrito em HTML.
+<html>
+<head>
+  
+</head>
+
+<body>
+
+</body>
+
+</html>
+
+A estrutura acima é começo de todo código html, em alguns editores de texto como vscode basta digitar "html" que ele já coloca toda a estrutura padrão já como os meta dados e titulo os meta dados e o titulo ficam no head da estrutura padrão, exemplo:
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset = "UTF-8>
+  <title>TITULO DE EXEMPLO</title>
+  <!--Nessa mesma estrutura é possivel colocar links tambem entre outros dados.-->
+</head>
+
+<body>
+
+<!--Continuando, nessa parte do body é que fazemos o site propiamente dito, aqui serão organizadas as tags de texto, imagem, o cabeçalho, rodape, entre outros elementos que fazem parte de um website.-->//Simbolo para adicionar comentario no codigo
+
+</body>
+
+</html>

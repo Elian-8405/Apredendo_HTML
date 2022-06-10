@@ -1,0 +1,23 @@
+                                   Resumo Listas
+                                   
+                                   
+Bom, nas as listas servem para guardar uma coleção de itens como ingredientes ou listas de contatos. As tags de lista são duas <ul> </ul> e <ol></ol>
+lista do tipo <ul> </ul>:
+Nessa lista não importa as ordens dos itens.
+lista do tipo <ol></ol>:
+Já nessa lista a ordem dos itens importam.
+
+E para adionar itens em ambas as listas? utilizamos a tag <li></li> ex:
+
+<ul> 
+
+ <li>Imagen, texto, link....etc</li>
+
+</ul>
+
+<ol> 
+
+ <li>Imagen, texto, link....etc</li>
+ <li>Imagen, texto, link....etc</li>
+<!--Nessa os elementos serão ordenados em ordem crescente -->
+</ol>

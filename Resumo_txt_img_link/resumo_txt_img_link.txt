@@ -1,0 +1,9 @@
+                               Resumo Texto/links/imagens
+                               
+Bom, começando por texto, em um resumo anterior foi citado as tags <h1>-</h6>, e que elas eram mais utilizadas para titulos, mas e uma taq para um grande texto? no HTML tem a tag <p> </p> essa tag é comun colocar textos grandes, porem ela não suporta somente grandes textos, ela suporta imagem, codigos e até mesmo videos, entre outros conteudos.
+
+links, a tag de link é <a href = "LINK" > NOME CLICAVEL ex: gmail</a> nessa tag fica os hyperlinks.
+
+imagens, as imagens são simples de adiconar, a tag é <img > essa tag possui dois atribudos propios o src e o alt.
+<imag src ="nome-imagen.extensão(jpg,png)" alt = "Descrição caso aconteça alguma erro na imagen">
+O exemplo acima é como se utiliza a tag de imagem.
